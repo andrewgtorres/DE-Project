@@ -10,6 +10,7 @@ trends and patterns in the soccer transfer market.
 ~ convert.py : python script that converts csv to dictionary
 ~ dataset.json : dictionary of our dataset
 ~ Andrew's Workbook.tbw : Tableau workbook for Andrew's tableau plots
+~ Juan's Workbook.tbw : Tableau workbook for Juan's tableau plots
 ~ plot1.py: produces pdf of Number of Transfers per league plot
 ~ plot2.py: produces pdf of Number of Transfers per position plot
 ~ plot3.py: produces pdf of 5 most commonly transferred positions in Summer and Winter
